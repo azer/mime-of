@@ -1,0 +1,22 @@
+{
+  "name": "mime-of",
+  "version": "0.0.0",
+  "description": "Returns the mimetype of given URI",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "media",
+    "mime"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/mime-of.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
